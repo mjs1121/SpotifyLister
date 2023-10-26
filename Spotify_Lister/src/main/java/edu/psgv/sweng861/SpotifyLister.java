@@ -312,8 +312,8 @@ class CustomList {
 //Main class for application execution
 public class SpotifyLister {
 	
-	static final String CLIENTID = "42210df04b17433a87ff547d10d309c4";
-    static final String CLIENTSECRET = "5a98aa4597614024ab64abf0e0339f99";
+    static final String CLIENTID = "";
+    static final String CLIENTSECRET = "";
     static final String REDIRECTURL = "http://localhost:8888/callback"; //whiltelisted set inside spotify
     static String TOKEN = "";
     public static int userListID = 0;   
